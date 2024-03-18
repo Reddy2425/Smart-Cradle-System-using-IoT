@@ -1,0 +1,11 @@
+Output-1: Temperature : 24.71
+          Moisture val : 0
+          Not Normal temperature
+
+Output-2: Temperature : 24.71
+          Moisture val : 273
+          Not Normal temperature
+
+Output-3: Temperature : 24.71
+          Moisture val : 876
+          Not Normal temperature
